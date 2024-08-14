@@ -1,2 +1,2 @@
-# Star-Bot-3
+# Star-Bot-
 Discord Bot &lt;3
