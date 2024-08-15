@@ -17,7 +17,7 @@ Debes copiar el numero que te da abajo
 
 En el link debes usar algo como: https://discord.com/oauth2/authorize?client_id=TuID&scope=bot&permissions=TuNumeroDepermisosBot
 
-Debes cambiar "TuID" por tu bot ID y TuNumeroDePermisosBot por el numero que se te dio en la seccion Bot y abajo "Bot Permissions"
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hYvxbN8" data-context="false" ><a href="//imgur.com/a/hYvxbN8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Debes cambiar "TuID" por tu bot ID y TuNumeroDePermisosBot por el numero que se te dio en la seccion Bot y abajo "[Bot Permission](https://imgur.com/80OaqMK)s"
+
 
 En tu terminal debes ir a la carpeta de tu Bot y escrbir "node index.js" (si el archivo de tu bot tiene otro nombre debes cambiar index.js por  el nombre el archivo) y listo, solo necesitas invitar a tu bot!
